@@ -12,3 +12,18 @@ C:\Users\c32659b\OneDrive - CNH Industrial\Documentos\Visual Studio 2022\CursoCs
 C:\Users\c32659b\OneDrive - CNH Industrial\Documentos\Visual Studio 2022\CursoCsharp\CursoCsharp\obj\Debug\net8.0\CursoCsharp.pdb
 C:\Users\c32659b\OneDrive - CNH Industrial\Documentos\Visual Studio 2022\CursoCsharp\CursoCsharp\obj\Debug\net8.0\CursoCsharp.genruntimeconfig.cache
 C:\Users\c32659b\OneDrive - CNH Industrial\Documentos\Visual Studio 2022\CursoCsharp\CursoCsharp\obj\Debug\net8.0\ref\CursoCsharp.dll
+C:\Users\c32659b\Documents\GitHub\Csharp\CursoCsharp\CursoCsharp\bin\Debug\net8.0\CursoCsharp.exe
+C:\Users\c32659b\Documents\GitHub\Csharp\CursoCsharp\CursoCsharp\bin\Debug\net8.0\CursoCsharp.deps.json
+C:\Users\c32659b\Documents\GitHub\Csharp\CursoCsharp\CursoCsharp\bin\Debug\net8.0\CursoCsharp.runtimeconfig.json
+C:\Users\c32659b\Documents\GitHub\Csharp\CursoCsharp\CursoCsharp\bin\Debug\net8.0\CursoCsharp.dll
+C:\Users\c32659b\Documents\GitHub\Csharp\CursoCsharp\CursoCsharp\bin\Debug\net8.0\CursoCsharp.pdb
+C:\Users\c32659b\Documents\GitHub\Csharp\CursoCsharp\CursoCsharp\obj\Debug\net8.0\CursoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c32659b\Documents\GitHub\Csharp\CursoCsharp\CursoCsharp\obj\Debug\net8.0\CursoCsharp.AssemblyInfoInputs.cache
+C:\Users\c32659b\Documents\GitHub\Csharp\CursoCsharp\CursoCsharp\obj\Debug\net8.0\CursoCsharp.AssemblyInfo.cs
+C:\Users\c32659b\Documents\GitHub\Csharp\CursoCsharp\CursoCsharp\obj\Debug\net8.0\CursoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\c32659b\Documents\GitHub\Csharp\CursoCsharp\CursoCsharp\obj\Debug\net8.0\CursoCsharp.sourcelink.json
+C:\Users\c32659b\Documents\GitHub\Csharp\CursoCsharp\CursoCsharp\obj\Debug\net8.0\CursoCsharp.dll
+C:\Users\c32659b\Documents\GitHub\Csharp\CursoCsharp\CursoCsharp\obj\Debug\net8.0\refint\CursoCsharp.dll
+C:\Users\c32659b\Documents\GitHub\Csharp\CursoCsharp\CursoCsharp\obj\Debug\net8.0\CursoCsharp.pdb
+C:\Users\c32659b\Documents\GitHub\Csharp\CursoCsharp\CursoCsharp\obj\Debug\net8.0\CursoCsharp.genruntimeconfig.cache
+C:\Users\c32659b\Documents\GitHub\Csharp\CursoCsharp\CursoCsharp\obj\Debug\net8.0\ref\CursoCsharp.dll

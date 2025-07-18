@@ -160,6 +160,62 @@ using System.Threading.Tasks;
         }
     }
 
-}*/ // Vetor com classe ( erro no programa principal, classe e leitura funcionando)
+}*/ // Vetor com classe 
+/*namespace CursoCsharp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int m, n;
+            Console.WriteLine("Digite o número de linhas da matriz");
+            n = int.Parse(Console.ReadLine());
+            Console.WriteLine("Digite o número de colunas da matriz");
+            m = int.Parse(Console.ReadLine());
+            int[,] mat = new int[m, n];
+            
+
+            for (int i = 0; i < m; i++)
+            {
+                Console.WriteLine("Digite os valores da linha ");
+                string [] a =Console.ReadLine().Split(' ');
+                for (int j = 0; j < n; j++)
+                {
+                    mat[i,j]=int.Parse(a[j]);
+                }
+            }
+           Console.WriteLine("Digite o número que deseja procurar na matriz");
+            int x = int.Parse(Console.ReadLine());
+            for (int i = 0; i < m; i++)
+            {
+                for (int j = 0; j < n; j++)
+                {
+                    if (mat[i, j] == x)
+                    {
+                        Console.WriteLine("Posição " + i + "," + j);
+                        if (j > 0)
+                        {
+                            Console.WriteLine("Esquerda: " + mat[i, j - 1]);
+                        }
+                        if (i > 0)
+                        {
+                            Console.WriteLine("Cima: " + mat[i - 1, j]);
+                        }
+                        if (j < n - 1)
+                        {
+                            Console.WriteLine("Direita: " + mat[i, j + 1]);
+                        }
+                        if (i < m - 1)
+                        {
+                            Console.WriteLine("Baixo: " + mat[i + 1, j]);
+                        }
+                    }
+                }
+            }
+
+
+        }
+    }
+}*/ // Matriz
 
 
