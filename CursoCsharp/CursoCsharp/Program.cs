@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
+
 /*namespace CursoCsharp
 { class Program
     { static void Main(string[] args)
@@ -219,3 +220,23 @@ using System.Threading.Tasks;
 }*/ // Matriz
 
 
+namespace CursoCsharp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Order order = new Order
+            {
+                Id = 1080,
+                Moment = DateTime.Now,
+                Status = OrderStatus.PendingPayment
+            };
+            string txt= OrderStatus.PendingPayment.ToString();// conversão   enum para string
+            OrderStatus os =  Enum.Parse<OrderStatus>("Delivered");// conversão string para enum
+            Console.WriteLine(os
+                );
+            Console.WriteLine(txt);
+        }
+    }
+}

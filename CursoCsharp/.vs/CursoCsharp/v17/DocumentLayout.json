@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{C29D2E7C-07FF-46F1-B0F4-F551EF3AEF44}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C29D2E7C-07FF-46F1-B0F4-F551EF3AEF44}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\c32659b\\documents\\github\\csharp\\cursocsharp\\cursocsharp\\cursocsharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C29D2E7C-07FF-46F1-B0F4-F551EF3AEF44}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\cursocsharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C29D2E7C-07FF-46F1-B0F4-F551EF3AEF44}|CursoCsharp\\CursoCsharp.csproj|c:\\users\\c32659b\\documents\\github\\csharp\\cursocsharp\\cursocsharp\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29D2E7C-07FF-46F1-B0F4-F551EF3AEF44}|CursoCsharp\\CursoCsharp.csproj|solutionrelative:cursocsharp\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\c32659b\\Documents\\GitHub\\Csharp\\CursoCsharp\\CursoCsharp\\Order.cs",
+              "RelativeDocumentMoniker": "CursoCsharp\\Order.cs",
+              "ToolTip": "C:\\Users\\c32659b\\Documents\\GitHub\\Csharp\\CursoCsharp\\CursoCsharp\\Order.cs",
+              "RelativeToolTip": "CursoCsharp\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T12:31:52.397Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,22 +45,10 @@
               "RelativeDocumentMoniker": "CursoCsharp\\Program.cs",
               "ToolTip": "C:\\Users\\c32659b\\Documents\\GitHub\\Csharp\\CursoCsharp\\CursoCsharp\\Program.cs",
               "RelativeToolTip": "CursoCsharp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T13:32:20.654Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CursoCsharp.csproj",
-              "DocumentMoniker": "C:\\Users\\c32659b\\Documents\\GitHub\\Csharp\\CursoCsharp\\CursoCsharp\\CursoCsharp.csproj",
-              "RelativeDocumentMoniker": "CursoCsharp\\CursoCsharp.csproj",
-              "ToolTip": "C:\\Users\\c32659b\\Documents\\GitHub\\Csharp\\CursoCsharp\\CursoCsharp\\CursoCsharp.csproj",
-              "RelativeToolTip": "CursoCsharp\\CursoCsharp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-26T13:32:11.268Z"
             }
           ]
         }
